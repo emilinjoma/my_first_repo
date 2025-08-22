@@ -5,5 +5,5 @@
 Hey look at my cool new repo.
 Git is **awesome**
 
-- It is in dark mode by default.
+- I can track even my mesages and manage my project
 - tracks my files.
