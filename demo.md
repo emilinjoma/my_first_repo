@@ -5,3 +5,5 @@
 Hey look at my cool new repo.
 Git is **awesome**
 
+- It is in dark mode by default.
+- tracks my files.
